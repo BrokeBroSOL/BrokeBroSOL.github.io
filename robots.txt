@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://brokebrosol.github.io/aetherrealm/sitemap.xml
+Sitemap: https://brokebrosol.github.io/sitemap.xml
